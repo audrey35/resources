@@ -1,3 +1,10 @@
+# Python
+
+## Python Tutorials
+- [Python Programming](https://testautomationu.applitools.com/python-tutorial/)
+- [Python Tutorials (read)](https://careerkarma.com/blog/python-tutorials/)
+  - top notch blog posts with snippets of code on different topics in Python
+
 # Python Flask Resources
 - [Extensive list of tutorials on building full-stack Flask apps](https://www.fullstackpython.com/flask.html)
 - [Short and sweet tutorial to build a bookmarking app and wiki](http://charlesleifer.com/blog/dont-sweat-small-stuff-use-flask-blueprints/)
