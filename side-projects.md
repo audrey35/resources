@@ -1,6 +1,9 @@
 # Side Projects
 Northeastern University offers great opportunities for you to work on side projects to beef up your portfolio and help you become an entrepreneur!
 
+## Events Available NOW!
+[Grad Career Summit 2020](https://northeastern-csm.symplicity.com/students/index.php?mode=form&id=9d612fdc853e5f31cd58c32e9475b309&s=event&ss=ws) from 9/22/2020 - 9/25/2020
+
 ## Collaborate with students
 - If you are an ALIGN student at Northeastern University in Boston campus, you should have gotten an email about a Piazza forum for sharing project ideas with fellow students.
   - contact Ethan Selinger, the co-op coordinator if you would like to access the Piazza forum!
