@@ -1,6 +1,12 @@
 # Python
 
 ## Python Tutorials
+- [Talk Python](https://training.talkpython.fm/courses/all) is my favorite tutorial site for Python
+  - this is the one paid tutorial I'm debating whether I should pay for.
+  - there are 3 free courses to see if you like it
+    - [Anvil: Web Apps With Nothing but Python Course](https://training.talkpython.fm/courses/explore_anvil/anvil-web-apps-with-just-python)
+    - [Responder Web Framework Mini-course Course](https://training.talkpython.fm/courses/explore_responder/responder-web-framework-mini-course)
+    - [MongoDB Quickstart with Python](https://freemongodbcourse.com/)
 - [Python Programming](https://testautomationu.applitools.com/python-tutorial/)
 - [Python Tutorials (read)](https://careerkarma.com/blog/python-tutorials/)
   - top notch blog posts with snippets of code on different topics in Python

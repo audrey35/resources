@@ -29,3 +29,7 @@ Northeastern University offers great opportunities for you to work on side proje
     - typically, the tutorials on [FreeCodeCamp YouTube channel](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) are good
   - best way to know that you actually learned something is by combining multiple tutorials to create a project
     - example: create a COVID-19 Tracker using one tutorial for displaying a table, another for graphing the data
+
+## Courses on Web Development
+- [Extensive Web Development course (paid)](https://upskillcourses.com/courses/essential-web-developer-course)
+  - part of the course is paid for, but a good course

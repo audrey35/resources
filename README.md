@@ -15,3 +15,6 @@ This repository contains resources for various programming languages and some No
   - Eddie Woo teaches high school math in the easiest and most entertaining way.
   - You can use [WooTube's list of topics](https://misterwootube.com/2020/03/18/lesson-videos/) to see if he taught the topics that you are interested in.
   - His YouTube channel is [here](https://www.youtube.com/misterwootube)
+
+## List of Free Online Courses
+- [115 Free Coursera Certificates](https://www.freecodecamp.org/news/coronavirus-coursera-free-certificate/)
